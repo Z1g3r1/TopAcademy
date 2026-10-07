@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "75c436fb045fa5fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcb6b474bdbba10c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3d2593f5ea9d485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Конспекты типа/1 курс/Введение в ЯП Python/Типы данных, переменные, синтаксис.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Типы данных, переменные, синтаксис"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88d356ff1974b6d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b62737799a233c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "226f3413c40f676a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "47221b690260592e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "e84164ebca091ab4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "748c05bd97e65d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "be57eac7bcf4fca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bca8fbc46ab74e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Конспекты типа/1 курс/Введение в ЯП Python/Типы данных, переменные, синтаксис.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "5ead2cc1712c38c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Конспекты типа/1 курс/Введение в ЯП Python/Типы данных, переменные, синтаксис.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "a1f35c5ec674a034",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "994f77de154552f7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "f20bfa946e395b45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Конспекты типа/1 курс/Введение в ЯП Python/Типы данных, переменные, синтаксис.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "1c6dafcf5d247ca8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b3d2593f5ea9d485",
+  "lastOpenFiles": [
+    "Конспекты типа/1 курс/Информатика/Системы счисления.md",
+    "Конспекты типа/1 курс/Информатика/Основные понятия алгебра логики (высказывание, логическое выражение, построение таблицы). Графический метод алгебры. Понятие множества.md",
+    "Конспекты типа/1 курс/Введение в ЯП Python/Циклы в Python.md",
+    "Конспекты типа/1 курс/Введение в ЯП Python/Типы данных, переменные, синтаксис.md",
+    "Добро пожаловать.md",
+    "Конспекты типа/1 курс/Основы информационных технологий/Чипсеты и материнские платы.md",
+    "Конспекты типа/1 курс/Основы информационных технологий/Жесткие диски. История, виды, устройство..md",
+    "Конспекты типа/1 курс/Основы информационных технологий/Базовое обеспечение ПК - процессор.md",
+    "Конспекты типа/1 курс/Основы информационных технологий",
+    "Конспекты типа/1 курс/Индивидуальный проект/Жизненный цикл проекта.md",
+    "Конспекты типа/1 курс/Индивидуальный проект/Очерки по индивидуальному проекту.md",
+    "Конспекты типа/1 курс/Индивидуальный проект/Жизненный цикл ПО.md",
+    "Конспекты типа/1 курс/Информатика",
+    "Конспекты типа/1 курс/Индивидуальный проект",
+    "Конспекты типа/1 курс/Введение в ЯП Python",
+    "Конспекты типа/1 курс",
+    "Конспекты типа",
+    "Дз типа/1 курс/Введение в ЯП Python/Домашнее задание 15.09.26.md",
+    "Дз типа/1 курс/Введение в ЯП Python",
+    "Дз типа/1 курс",
+    "Дз типа",
+    "images/Pasted image 20261002115421.png",
+    "images/Pasted image 20260929151228.png",
+    "images"
+  ]
+}

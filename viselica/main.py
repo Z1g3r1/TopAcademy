@@ -1,3 +1,4 @@
+import random as r
 def findAllIndexes(word, char):
     return [i for i, c in enumerate(word.lower()) if c == char.lower()]
 
@@ -12,7 +13,10 @@ def getNewWordByChar(word_for_test, word_to_secret, char):
 def game():
     attempts = 5
     print("Добро пожаловать в игру виселица!")
-    word_for_test = "Получатель"
+    file = open("C:\\Users\\Тимофей\\Desktop\\topAcademy\\viselica\\words.txt", "r", encoding="utf-8")
+    words = file.read().split()
+
+    word_for_test = r.choice(words)
     
     word_to_secret = ["*"] * len(word_for_test)
     enabled = True

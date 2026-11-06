@@ -1,4 +1,14 @@
 import random as r
+import os
+
+def attemptsByWordLenght(word: str) -> int:
+    if len(word) < 5:
+        return 5
+    elif len(word) >= 5 and len(word) <= 8:
+        return 7
+    else:
+        return 9
+
 def findAllIndexes(word, char):
     return [i for i, c in enumerate(word.lower()) if c == char.lower()]
 
@@ -10,13 +20,13 @@ def getNewWordByChar(word_for_test, word_to_secret, char):
     return word_to_secret
 
 
-def game():
-    attempts = 5
+def game(): 
     print("Добро пожаловать в игру виселица!")
-    file = open("C:\\Users\\Тимофей\\Desktop\\topAcademy\\viselica\\words.txt", "r", encoding="utf-8")
+    file = open(os.path.dirname(__file__) + "/words.txt", "r", encoding="utf-8")
     words = file.read().split()
 
     word_for_test = r.choice(words)
+    attempts = attemptsByWordLenght(word_for_test)
     
     word_to_secret = ["*"] * len(word_for_test)
     enabled = True
